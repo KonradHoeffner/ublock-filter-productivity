@@ -1,0 +1,9 @@
+! Konrad Höffners uBlock productivity filter
+
+! stack exchange network
+! I didn't want to duplicate those over the myriad of stack exchange websites and so far I encountered no side effects in other websites.
+! If those appear, duplicate.
+###hot-network-questions
+##.sidebar-related.module
+##.community-bulletin.module
+##.site-footer--container
