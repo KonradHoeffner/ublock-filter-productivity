@@ -7,3 +7,6 @@
 ##.sidebar-related.module
 ##.community-bulletin.module
 ##.site-footer--container
+
+! Right column on youtube
+www.youtube.com###secondary
